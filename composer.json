@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/youtube",
+    "name": "raymondwilkinson/youtube",
     "description": "YouTube OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
